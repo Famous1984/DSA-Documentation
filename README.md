@@ -1,6 +1,6 @@
 # DSA-Documentation
 
-##  My God Is Able
+#  My God Is Able
 
 When the mountain won't move and the storm won't cease,
 When the nights are long and peace feels out of reach—
