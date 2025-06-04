@@ -105,3 +105,9 @@ But because of who He is:
 
 My God is able.
 
+
+```  SQL
+SELECT A,B,C
+WHERE A> 15
+
+```
